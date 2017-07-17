@@ -10,6 +10,6 @@
 
 **Type of Site:** Responsive website
 
-**Next steps:** Wait for design approval, then fill out category pages and topic pages.
+**Next steps:** Finalize design; tweak Home Page, fill out category pages and topic pages.
 
 [this is a work in progress - check back soon for updated versions]
