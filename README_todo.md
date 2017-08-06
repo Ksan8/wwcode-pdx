@@ -7,21 +7,17 @@
   * general ideas: event spotlights, leadership updates, meet the team [for a particular study night]
 
 #### NEED TO CHANGE / ADD
-* add sponsor logos above footer (need list of PDX sponsors)
-* make it clear that we host monthly networking nights, study nights, workshops, etc. (both repeat events and one-offs)
-  * collapsible event list? (but this would require frequent updating)
+* collapsible event list? (but this would require frequent updating)
 * switch out the hero photo (less blues \& greens; need to look at options) + darken overlay to make text more pronounced
   * alternately, we could use a layered image of different coding languages (all code, no people)
 * add copy under 'Be a Sponsor' and 'Support Us' (Morgan is putting together a copy doc)
 * make social icons more prominent + add YouTube, Meetup, GitHub (assets)
   * Slack \& Twitter as well?
   * remove FB
-* add Sponsor page (names, descriptions)
 
 #### QUESTIONS
 * What are the final choices and order for the nav bar?
   * proposal: ['Get Involved', 'Events', 'Sponsors', 'Our Network', 'Blog', 'DONATE']
-* Who are our PDX sponsors?
 * What should 'Our Network' (in the nav bar) link to? The parent organization?
 
 ### COMPLETED
@@ -32,3 +28,7 @@
 * changed nav bar to include: ['Get Involved', 'Events', 'Sponsors', 'Our Network', 'Blog', 'DONATE'] -- not final; needs approval
 * insert SPONSOR section above footer
 * 'Become a Member' should be prominent (added on top of hero image)
+* add Sponsor page w/names, logos, and descriptions
+* make it clear that we host monthly networking nights, study nights, workshops, etc. (both repeat events and one-offs)
+* add sponsor logos above home page footer (need list of PDX sponsors)
+
