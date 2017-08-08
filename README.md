@@ -1,6 +1,6 @@
 ## Women Who Code PDX website
 
-![Design screenshot](/WWCode-desktop_2017-05-16.png)
+![Design screenshot](/screenshots/WWCode-desktop_2017-08-07.png)
 
 [Current desktop mockup prototype](https://xd.adobe.com/view/e20a88af-fcee-441d-a2b5-2493744d2247/)
 
@@ -10,6 +10,13 @@
 
 **Type of Site:** Responsive website
 
-**Next steps:** Finalize design; tweak Home Page, fill out category pages and topic pages.
+**Next steps:**
+* create specialized icons
+* finish About and Events pages
+* fill out mobile pages
+* finalize overall design
+* submit to PM and PO
+* make any desired changes
+* conduct usability testing
 
 [this is a work in progress - check back soon for updated versions]
